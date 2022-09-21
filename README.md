@@ -1,25 +1,10 @@
-# tower_defense
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # A Completed Functional Flutter App - FindSeat (BLoC + Json API + Unit Test + Firebase Auth)
 
 ![Banner](https://raw.githubusercontent.com/KhoaSuperman/findseat/apply_bloc/sample_data/github_screenshots/YoutubeBanner_v2_medium.png)
 
 ## I. Introduction
-I build an app that mimics a published app :open_book: (https://github.com/KhoaSuperman/findseat)
+I built this app based on the published app :open_book: (https://github.com/KhoaSuperman/findseat)
 
 [Check Video Demo] :film_strip: (https://youtu.be/cxUiyI4h2Ug)
 
